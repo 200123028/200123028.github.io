@@ -1,6 +1,48 @@
 body{
-    background: rgb(35, 35, 35);
+    background: rgb(227, 227, 227);
+    text-align:center
 }
-h2{
-    color: rgb(105, 250, 255);
+img.face{
+    border-radius: 50%;
+    width: 150px;
+    height: 200px;
+}
+img.a{
+    width: 110px;
+    height: 100px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+#Link{
+    font-size: 20px;
+}
+a{
+    color: black;
+}
+a.no-color-change {
+    color: black;
+  }
+p{
+    font-size: 18px;
+    line-height: 25px;
+    text-align:center;
+    }
+p.name{
+    font-size: 25px;
+    line-height: 28px;
+    text-align:center;
+}
+p.midashi{
+    font-size: 22px;
+    line-height: 2px;
+    text-align:center;
+    text-decoration:underline;
+}
+#Title{
+    color: rgb(0, 0, 0);
+    font-size: 170%;
+    font-weight: bold;
+    line-height: 20px;
 }
